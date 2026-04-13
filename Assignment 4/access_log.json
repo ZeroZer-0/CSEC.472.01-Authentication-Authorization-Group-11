@@ -1,0 +1,170 @@
+[
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User1",
+    "application": "Money Market Instruments",
+    "access_type": "Execute",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User1",
+    "application": "Derivatives Trading",
+    "access_type": "Write",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User1",
+    "application": "Interest Instruments",
+    "access_type": "Execute",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User2",
+    "application": "Money Market Instruments",
+    "access_type": "Execute",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User2",
+    "application": "Interest Instruments",
+    "access_type": "Read",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User2",
+    "application": "Investment Banking Suite",
+    "access_type": "Approve",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User2",
+    "application": "Loan Management",
+    "access_type": "Write",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User2",
+    "application": "Risk Management System",
+    "access_type": "Read",
+    "result": "Denied"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User3",
+    "application": "Share Management System",
+    "access_type": "Read",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User3",
+    "application": "Share Management System",
+    "access_type": "Write",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User3",
+    "application": "E-Commerce Gateway",
+    "access_type": "Execute",
+    "result": "Denied"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User3",
+    "application": "E-Commerce Gateway",
+    "access_type": "Execute",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User3",
+    "application": "Share Management System",
+    "access_type": "Write",
+    "result": "Denied"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User4",
+    "application": "Corporate Trading Platform",
+    "access_type": "Audit",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User4",
+    "application": "Risk Management System",
+    "access_type": "Approve",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User4",
+    "application": "Loan Management",
+    "access_type": "Execute",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User4",
+    "application": "Interest Instruments",
+    "access_type": "Execute",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User4",
+    "application": "Office Banking Admin Panel",
+    "access_type": "Audit",
+    "result": "Denied"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User5",
+    "application": "Office Banking Admin Panel",
+    "access_type": "Approve",
+    "result": "Granted"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User5",
+    "application": "Money Market Instruments",
+    "access_type": "Read",
+    "result": "Denied"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User6",
+    "application": "Investment Banking Suite",
+    "access_type": "Read",
+    "result": "Denied"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User1",
+    "application": "Loan Management",
+    "access_type": "Write",
+    "result": "Denied"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User1",
+    "application": "Corporate Trading Platform",
+    "access_type": "Audit",
+    "result": "Denied"
+  },
+  {
+    "timestamp": "Mon, 13 Apr 2026 03:19:41 GMT",
+    "user": "User2",
+    "application": "Loan Management",
+    "access_type": "Read",
+    "result": "Denied"
+  }
+]
